@@ -2,7 +2,7 @@
 title: "Machine Learning and Data Analysis"
 collection: teaching
 type: "Graduate course"
-permalink: 'https://fel.cvut.cz/en/education/bk/predmety/22/75/p227581302205.html'
+permalink: /teaching/2014-spring-teaching-2
 venue: "Czech Technical University, Computer Science"
 date: 2015-01-01
 location: "Prague, CZ"

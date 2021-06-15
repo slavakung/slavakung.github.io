@@ -2,7 +2,7 @@
 title: "Functional and Logic Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: 'https://fel.cvut.cz/cz/education/bk/predmety/12/81/p12819904.html'
+permalink: /teaching/2014-spring-teaching-3
 venue: "Czech Technical University, Computer Science"
 date: 2015-01-01
 location: "Prague, CZ"

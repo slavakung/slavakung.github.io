@@ -12,3 +12,6 @@ redirect_from:
 You can download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
 
 Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status. 
+
+
+<object data="{{https://gustiks.github.io}}{{https://gustiks.github.io}}/files/gustav_sir_CV.pdf" width="1000" height="1000" type="application/pdf"></object>

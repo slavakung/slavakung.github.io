@@ -4,6 +4,7 @@ excerpt: "A custom framework for deep *relational* learning, written completely 
 \
 see [NeuraLogic](https://github.com/GustikS/NeuraLogic)
 \
+<br>
 date: 2015-2020
 \
 role: developer (single)

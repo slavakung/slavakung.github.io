@@ -6,8 +6,6 @@ excerpt: 'This is actually my dissertation thesis - it contains my work on deep 
 date: 2021-05-11
 venue: 'Czech Technical University press'
 paperurl: 'https://gustiks.github.io/files/dissertation.pdf'
---------
-
 ---
 
 **Gustav Šír**

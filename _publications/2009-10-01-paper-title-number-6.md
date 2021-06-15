@@ -6,8 +6,6 @@ excerpt: 'US patent - A constructive procedure for detection of malicious networ
 date: 2016-06-11
 venue: 'Czech Technical University press'
 paperurl: 'https://patents.google.com/patent/US9374383B2/en'
---------
-
 ---
 
 **Gustav SOUREK, Karel Bartos, Filip Zelezny, Tomas Pevny, Petr Somol**

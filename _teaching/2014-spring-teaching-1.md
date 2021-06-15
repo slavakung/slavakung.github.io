@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://fel.cvut.cz/en/education/bk/predmety/50/10/p5010606.html
 venue: "Czech Technical University, Computer Science"
-date: 2018-present
+date: 2018-01-01
 location: "Prague, CZ"
 ---
 

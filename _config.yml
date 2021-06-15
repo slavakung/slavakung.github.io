@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gustav Šír"
   avatar           : "profile.jpg"
-  bio              : "A PhD student and researcher in the Intelligent Data Analysis group of the Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague."
-  location         : "Prague, CZ"
+  bio              : "A PhD student and researcher in the [Intelligent Data Analysis](http://ida.fel.cvut.cz/) group of the [Department of Computer Science](http://cs.fel.cvut.cz/), [Faculty of Electrical Engineering](https://fel.cvut.cz/en/), [Czech Technical University](https://www.cvut.cz/en) in Prague."
+  location         : "[Prague, CZ](https://www.google.com/maps/place/V%C3%BDdejna+Karlovo+n%C3%A1m%C4%9Bst%C3%AD/@50.0762322,14.4174947,15z/data=!4m2!3m1!1s0x0:0xfcabf8e01d8d0ffb?sa=X&ved=2ahUKEwjUjNfc6ZnxAhWilYsKHbzTBmQQ_BIwEnoECDQQBQ)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs"

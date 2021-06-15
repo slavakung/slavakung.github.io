@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Please see my [Google Scholar profile](https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs) for a full list of my publications.
+...please see my [Google Scholar profile](https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs) for a full list of my publications.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

@@ -4,6 +4,9 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-2
 venue: "Czech Technical University, Computer Science"
+excerpt: "_date_: 2015-2018
+          <br>
+          _role_: tutor"
 date: 2015-01-01
 location: "Prague, CZ"
 ---

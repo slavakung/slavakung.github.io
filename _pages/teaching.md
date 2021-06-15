@@ -34,10 +34,11 @@ Additionally, I served as a reviewer for more than 20 other theses.
 
 ### Advising ###
 
-I serve as a faculty adviser for the local Upsilon Pi Epsilon (UPE) honor CS society. Coordinating Czech UPE Alpha Chapter activities, securing funding, etc.
+I serve as a faculty adviser for the Czech Upsilon Pi Epsilon (UPE) honor CS society.
+I coordinate the local chapter activities, secure funding, etc.
 
 
-# Teaching #
+## Teaching ##
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}

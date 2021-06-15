@@ -3,21 +3,30 @@ title: "Deep Learning with Relational Logic Representations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
 excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.'
-date: 2021-06-17
+date: 2021-06-11
 venue: 'Czech Technical University press'
 paperurl: 'https://gustiks.github.io/files/dissertation.pdf'
 --------
 
 ---
 
-**O Hubacek, G Sir**
+**Gustav Šír**
 
-It is a common misconception that in order to make consistent profits as a trader, one needs to posses some extra information leading to an asset value estimation more accurate than that reflected by the current market price. While the idea makes intuitive sense and is also well substantiated by the widely popular Kelly criterion, we prove that it is generally possible to make systematic profits with a completely inferior price-predicting model. The key idea is to alter the training objective of the predictive models to explicitly decorrelate them from the market, enabling to exploit inconspicuous biases in market maker's pricing, and profit on the inherent advantage of the market taker. We introduce the problem setting throughout the diverse domains of stock trading and sports betting to provide insights into the common underlying properties of profitable predictive models, their connections to standard portfolio optimization strategies, and the, commonly overlooked, advantage of the market taker. Consequently, we prove desirability of the decorrelation objective across common market distributions, translate the concept into a practical machine learning setting, and demonstrate its viability with real world market data.
+In the recent years, we have seen tremendous resurgence of neural networks, applied with great success in highly diverse domains, ranging from speech recognition to game playing. The unprecedented progress of this new deep learning trend has even been seen as paving our way towards general artificial intelligence.
+However, the current deep learning models are still limited in many regards.
+Particularly, in this thesis we address the contemporary problem of learning neural networks from *relational* data and knowledge representations. While virtually all standard models are limited to data in the form of fixed-size tensors, the relational data are omnipresent in the interlinked structures of the Internet and relational databases. Likewise, in many domains a background knowledge in the form of relational logic rules or rich graph-based structures is often available, yet impossible or very difficult to exploit with the standard deep learning models.
+
+To address this issue, we introduce a declarative deep relational learning framework called Lifted Relational Neural Networks (LRNNs). The main idea underlying the framework is to approach the neural networks through the *lifted modeling* paradigm, known otherwise from Statistical Relational Learning (SRL), where it is used to exploit *symmetries* in learning problems. Similarly to lifted graphical models from SRL, LRNNs are then represented as sets of *weighted relational logic* rules, used to describe the structure of a given learning setting. 
+
+As set out, we demonstrate that this paradigm allows for effective end-to-end neural learning with relational data and knowledge. The encoding through the weighted relational logic rules then provides flexible means for implementing a wide variety of novel modeling concepts incorporating various latent relational patterns. Notably, these also elegantly cover contemporary deep convolutional models, such as Graph Neural Networks, as a simple special case. We explain how to easily generalize these state-of-the-art models towards higher expressiveness, and also demonstrate the general LRNN framework on various practical learning scenarios and benchmarks, including computational efficiency.
+
+Additionally, we introduce several enhancements to the framework. Firstly, we present an automated structure learning of the relational rules, composing the lifted models. Secondly, we introduce two principled optimization techniques used to scale up the integrative framework from both the logical and neural learning perspectives. Both the optimization methods are then effective also separately in the respective approaches to learning. Lastly, we demonstrate the framework on selected use cases in different domains.
+
 ```
-@article{hubavcek2020beating,
-          title={Beating the market with a bad predictive model},
-          author={Hub{\'a}{\v{c}}ek, Ond{\v{r}}ej and {\v{S}}{\'\i}r, Gustav},
-          journal={arXiv preprint arXiv:2010.12508},
+@article{sir2020deep,
+          title={Deep Learning with Relational Logic Representations},
+          author={{\v{S}}{\'\i}r, Gustav},
+          journal={Czech Technical University press, Ph.D. thesis.},
           year={2020}
 }
 ```

@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Database Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://fel.cvut.cz/cz/education/bk/predmety/50/10/p5010606.html
+venue: "Czech Technical University, Computer Science"
+date: 2015-01-01
+location: "Prague, CZ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+---
+title: "Machine Learning and Data Analysis"
+collection: teaching
+type: "Graduate course"
+permalink: https://cw.fel.cvut.cz/old/courses/m33sad/program
+venue: "Czech Technical University, Computer Science"
+date: 2016-01-01
+location: "Prague, CZ"
+---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+---
+title: "Functional and Logic Programming"
+collection: teaching
+type: "Undergraduate course"
+permalink: https://cw.fel.cvut.cz/old/courses/ae4b33flp/start
+venue: "Czech Technical University, Computer Science"
+date: 2015-01-01
+location: "Prague, CZ"
+---

@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Gustav Šír"
+  avatar           : "profile.jpg"
+  bio              : "A PhD student and researcher in the Intelligent Data Analysis group of the Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague."
+  location         : "Prague, CZ"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs"
+  email            : "gustav.sir@email.cz"
+  researchgate     : "https://www.researchgate.net/profile/Gustav-Sourek"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/GustikS/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/gustav-sir/"
+  orcid            : "https://orcid.org/0000-0001-6964-4232"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/GustavSourek"
   vine             :
   weibo            :
   xing             :

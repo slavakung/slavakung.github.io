@@ -7,6 +7,8 @@ see my [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository
 _date_: 2015-2020
 <br>
 _role_: developer
+<br>
+<br>
 "
 collection: portfolio
 ---

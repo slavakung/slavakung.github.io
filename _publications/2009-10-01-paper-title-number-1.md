@@ -1,13 +1,26 @@
-These are only some featured publications.
+These are only some featured publications:
 
 ---
 title: "Lifted Relational Neural Networks: Efficient Learning of Latent Relational Structures"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://jair.org/index.php/jair/article/view/11203
+excerpt: 'The paper introduces our original concept concept of Lifted Relational Neural Networks'
+date: 2018-05-17
+venue: 'Journal of Artificial Intelligence Research'
+paperurl: 'https://jair.org/index.php/jair/article/view/11203/26415'
+citation: 'Sourek, Gustav, et al. "Lifted relational neural networks: Efficient learning of latent relational structures." Journal of Artificial Intelligence Research 62 (2018): 69-100.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The paper introduces our original concept concept of Lifted Relational Neural Networks
+
+
+---
+title: "Lifted Relational Neural Networks: Efficient Learning of Latent Relational Structures"
+collection: publications
+permalink: https://jair.org/index.php/jair/article/view/11203
+excerpt: 'The paper introduces our original concept concept of Lifted Relational Neural Networks'
+date: 2018-05-17
+venue: 'Journal of Artificial Intelligence Research'
+paperurl: 'https://jair.org/index.php/jair/article/view/11203/26415'
+citation: 'Sourek, Gustav, et al. "Lifted relational neural networks: Efficient learning of latent relational structures." Journal of Artificial Intelligence Research 62 (2018): 69-100.'
+---
+The paper introduces our original concept concept of Lifted Relational Neural Networks

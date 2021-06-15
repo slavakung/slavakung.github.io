@@ -3,7 +3,7 @@ title: "Beyond Graph Neural Networks with Lifted Relational Neural Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'We show how the Lifted Relational Neural Networks concept covers the Graph Neural Networks concept (and more)'
-date: 2021-05-17
+date: 2020-05-17
 venue: 'Machine Learning Journal'
 paperurl: 'https://arxiv.org/pdf/2007.06286.pdf'
 ---

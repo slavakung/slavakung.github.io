@@ -16,4 +16,4 @@ I received my B.Sc. in *Intelligent Systems* and M.Sc. in *Artificial Intelligen
 
 In the meantime, I've also gained some international experience from [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore, [National Taiwanese University of Science and Technology](https://www.ntust.edu.tw/?Lang=en), Taipei, and [University of York](https://www.york.ac.uk/). I also got my hands dirty with some work at companies such as Citibank or IBM, as well as some research projects at [IBM Research](https://www.research.ibm.com/labs/haifa/) in Haifa and [Google](https://research.google/locations/zurich/) in Zurich.
 
-I'm profoundly interested in the impacts of AI on humanity. I support local _Unicef_ and *People in Need* branches. I spend most of my spare time with my wife and kids, but I also enjoy traveling and paragliding.
+I'm profoundly interested in the impacts of AI on humanity. I support local _Unicef_ and *People in Need*  branches. I spend most of my spare time with my wife and kids, but I also enjoy traveling and paragliding.

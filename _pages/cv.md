@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status. 
+You can download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
 
-You can also download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
+Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status. 

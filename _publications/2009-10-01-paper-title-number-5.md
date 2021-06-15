@@ -1,8 +1,11 @@
 ---
-title: "Deep Learning with Relational Logic Representations"
+title: "**Deep Learning with Relational Logic Representations**"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
-excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.'
+excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.
+<br>
+---
+'
 date: 2021-05-11
 venue: 'Czech Technical University press'
 paperurl: 'https://gustiks.github.io/files/dissertation.pdf'
@@ -20,6 +23,7 @@ As set out, we demonstrate that this paradigm allows for effective end-to-end ne
 
 Additionally, we introduce several enhancements to the framework. Firstly, we present an automated structure learning of the relational rules, composing the lifted models. Secondly, we introduce two principled optimization techniques used to scale up the integrative framework from both the logical and neural learning perspectives. Both the optimization methods are then effective also separately in the respective approaches to learning. Lastly, we demonstrate the framework on selected use cases in different domains.
 
+cite as:
 ```
 @article{sir2020deep,
           title={Deep Learning with Relational Logic Representations},

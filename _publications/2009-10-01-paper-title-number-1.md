@@ -12,6 +12,7 @@ paperurl: 'https://jair.org/index.php/jair/article/view/11203/26415'
 
 We propose a method to combine the interpretability and expressive power of first-order logic with the effectiveness of neural network learning. In particular, we introduce a lifted framework in which first-order rules are used to describe the structure of a given problem setting. These rules are then used as a template for constructing a number of neural networks, one for each training and testing example. As the different networks corresponding to different examples share their weights, these weights can be efficiently learned using stochastic gradient descent. Our framework provides a flexible way for implementing and combining a wide variety of modelling constructs. In particular, the use of first-order logic allows for a declarative specification of latent relational structures, which can then be efficiently discovered in a given data set using neural network learning. Experiments on 78 relational learning benchmarks clearly demonstrate the effectiveness of the framework.
 
+cite as:
 ```
 @article{sourek2018lifted,
          title={Lifted relational neural networks: Efficient learning of latent relational structures},

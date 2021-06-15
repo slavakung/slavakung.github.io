@@ -12,6 +12,7 @@ paperurl: 'https://patents.google.com/patent/US9374383B2/en'
 
 In one embodiment, a system includes a processor to receive network flows, for each of one of a plurality of event-types, compare each one of the network flows to a flow-specific criteria of the one event-type to determine if the one network flow satisfies the flow-specific criteria, for each one of the event-types, for each one of the network flows satisfying the flow-specific criteria of the one event-type, assign the one network flow to a proto-event of the one-event type, test different combinations of the network flows assigned to the proto-event of the one event-type against aggregation criteria of the one event-type to determine if one combination of the network flows assigned to the proto-event of the one event-type satisfies the aggregation criteria for the one event-type and identifies an event of the one event-type from among the network flows of the proto-event. Related apparatus and methods are also described.
 
+cite as:
 ```
 @misc{sourek2016events,
       title={Events from network flows},

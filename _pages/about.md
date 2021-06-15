@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student and researcher in the [Intelligent Data Analysis](http://ida.fel.cvut.cz) lab at the [Department of Computer Science](http://cs.fel.cvut.cz/) of the [Faculty of Electrical Engineering](https://www.fel.cvut.cz/en) at [Czech Technical University](https://www.cvut.cz/en) in Prague, Czech Republic.
 
-I'm interested in Artificial Intelligence research, with a particular focus on (deep) *relational machine learning* - i.e. learning from data with complex dependencies and structures such as (knowledge) graphs and databases. To approach this problem, I like to combine formal representations from relational logic with ideas from deep learning. This is sometimes viewed as [Neural-Symbolic integration](http://www.neural-symbolic.org/).
+I'm interested in Artificial Intelligence research, with a particular focus on (deep) *relational machine learning* - i.e. learning from data with complex dependencies and structures such as (knowledge) graphs and databases. To approach this problem, I like to combine formal representations from relational logic with ideas from deep learning. You can find all the details in my [dissertation thesis](/_publications/2009-10-01-paper-title-number-5.md).
 
 I received my B.Sc. in *Intelligent Systems* and M.Sc. in *Artificial Intelligence* from Czech Technical University. Currently, I'm pursuing Ph.D. in *Artificial Intelligence* at the same alma mater, where I've been also serving as a tutor in several [courses](./teaching.html). I also server as a faculty adviser of the local [Upsilon Pi Epsilon](http://upe.cvut.cz/) honor society for talented computer science students.
 

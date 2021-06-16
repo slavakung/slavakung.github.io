@@ -9,13 +9,18 @@ author_profile: true
 
 ## Reviewing ##
 
-I serve as a (sub-)reviewer for journals and conferences, including TNNLS, AIJ, MLJ, CI, and IJCAI, ILP, and others.
+I have served as a (sub-) reviewer for various journals including TNNLS, AIJ, MLJ, CI, and conferences including IJCAI, ILP, and others.
+
+## Advising ##
+
+I serve as a faculty adviser for the Czech *Upsilon Pi Epsilon* (UPE) honor society for talented CS students.
+I coordinate the local chapter activities, report to the US central, secure funding, etc.
 
 ## Supervising ##
 
 I have supervised the following Bachelor's and Master's students:
 
-Topics on Deep Relational Learning
+Topics on *Deep Relational Learning*
 
 ---
 
@@ -34,7 +39,7 @@ Topics on Deep Relational Learning
     
 ---
 
-Topics on Predictive Sports Analytics (my hobby)
+Topics on *Predictive Sports Analytics* (my hobby)
 
 - Hubáček Ondřej 
     - _thesis_: Exploiting betting market inefficiencies with machine learning
@@ -50,7 +55,6 @@ Topics on Predictive Sports Analytics (my hobby)
     - _thesis_: Predicting Counter-Strike Game Outcomes with Machine Learning
     
 ---
-
    
 - Vavřinec Matěj 
     - _thesis_: Efficient grounding of hierarchical logic templates
@@ -58,8 +62,3 @@ Topics on Predictive Sports Analytics (my hobby)
     - _thesis_: Sentiment Analysis Pipeline for Czech Language
 
 Additionally, I served as a reviewer (opponent) for more than 20 other theses.
-
-## Advising ##
-
-I serve as a faculty adviser for the Czech **Upsilon Pi Epsilon** (UPE) honor CS society.
-I coordinate the local chapter activities, secure funding, etc.

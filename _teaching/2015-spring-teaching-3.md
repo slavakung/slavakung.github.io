@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-3
 venue: "Czech Technical University, Computer Science"
-excerpt: "_duration_: 2015-2018
+excerpt: "_duration_: 2014-2017
           <br>
           _role_: tutor"
 date: 2015-01-01

@@ -25,15 +25,15 @@ Topics on *Deep Relational Learning*
 ---
 
 - Svatoš Martin 
-    - _thesis_: Structure learning of neural-symbolic architectures
+    - _thesis_: Structure learning of neural-symbolic architectures. M.Sc. 2016
 - Studený Jan 
-    - _thesis_: Learning Relevant Reasoning Patterns with Neuro-Logic Programming
+    - [thesis](https://dspace.cvut.cz/handle/10467/68567): Learning Relevant Reasoning Patterns with Neuro-Logic Programming. B.Sc. 2017
 - Krynský Daniel 
-    - _thesis_: Relational Learning with Neural Networks for Machine Translation Evaluation
+    - [thesis](https://dspace.cvut.cz/handle/10467/76407): Relational Learning with Neural Networks for Machine Translation Evaluation. M.Sc. 2018
 - Briedoň Marián 
-    - _thesis_: Integration of Relational and Deep Learning Frameworks
+    - [thesis](https://dspace.cvut.cz/handle/10467/76772): Integration of Relational and Deep Learning Frameworks. M.Sc. 2018
 - Krutský Martin 
-    - _thesis_: Exploring Symmetries in Deep Learning
+    - [thesis](https://dspace.cvut.cz/handle/10467/94670): Exploring Symmetries in Deep Learning. B.Sc. 2021
 - Zahradník Lukáš 
     - _thesis_: Extending Graph Neural Networks with Relational Logic
     
@@ -42,11 +42,12 @@ Topics on *Deep Relational Learning*
 Topics on *Predictive Sports Analytics* (my hobby)
 
 - Hubáček Ondřej 
-    - _thesis_: Exploiting betting market inefficiencies with machine learning
+    - [thesis](https://dspace.cvut.cz/handle/10467/66861): Exploiting betting market inefficiencies with machine learning. M.Sc. 2017
+        - IT SPY 2017 best thesis - 3rd place
 - Syrový Zdeněk 
-    - _thesis_: Analysing Efficiency of Predictive Sports Markets
+    - [thesis](https://dspace.cvut.cz/handle/10467/87636): Analysing Efficiency of Predictive Sports Markets. B.Sc. 2020
 - Pereverzeva Aleksandra 
-    - _thesis_: Predicting sports matches with neural models
+    - [thesis](https://dspace.cvut.cz/handle/10467/92732): Predicting sports matches with neural models. M.Sc. 2020
 - Grim Tomáš 
     - _thesis_: Predicting Ice-Hockey Matches with Neural Networks
 - Kyral Tadeáš 

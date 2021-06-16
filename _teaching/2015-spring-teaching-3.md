@@ -6,8 +6,10 @@ permalink: /teaching/2014-spring-teaching-3
 venue: "Czech Technical University, Computer Science"
 excerpt: "_duration_: 2014-2017
           <br>
-          _role_: tutor"
-date: 2015-01-01
+          _role_: tutor
+          <br>
+          [Course website](https://fel.cvut.cz/cz/education/bk/predmety/12/81/p12819904.html)
+          "
 location: "Prague, CZ"
 ---
 

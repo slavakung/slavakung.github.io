@@ -10,7 +10,6 @@ excerpt: "_duration_: 2018-present
           <br>
           [Course website](https://fel.cvut.cz/en/education/bk/predmety/50/10/p5010606.html)
           "
-date: 2018-01-01
 location: "Prague, CZ"
 ---
 

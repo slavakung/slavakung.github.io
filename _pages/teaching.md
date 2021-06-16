@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Community work"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-## Teaching ##
 
 past & present courses:
 

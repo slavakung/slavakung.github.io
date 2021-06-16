@@ -14,7 +14,7 @@ I have served as a (sub-) reviewer for various journals including TNNLS, AIJ, ML
 ## Advising ##
 
 I serve as a faculty adviser for the Czech *Upsilon Pi Epsilon* (UPE) honor society for talented CS students.
-I coordinate the local chapter activities, report to the US central, secure funding, etc.
+I coordinate the local chapter activities, report to the US central, secure funding, etc. We won the outstanding UPE chapter [award](http://cs.fel.cvut.cz/en/news/detail/1068).
 
 ## Supervising ##
 

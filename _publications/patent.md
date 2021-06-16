@@ -1,7 +1,7 @@
 ---
 title: "Events from network flows"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-6
+permalink: /publication/patent
 excerpt: 'US patent - A constructive procedure for detection of malicious network events from NetFlow traffic.'
 date: 2016-06-11
 venue: 'Czech Technical University press'

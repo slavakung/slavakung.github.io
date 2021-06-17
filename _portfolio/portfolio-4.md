@@ -4,7 +4,7 @@ excerpt: "Developing various novel machine learning methods for data analysis in
 <br>
 _date_: 2017-present
 <br>
-_role_: Coordinator (PI)
+_role_: coordinator (PI)
 <br>
 _funding_: Czech Technical University
 "

@@ -16,9 +16,11 @@ I have served as a (sub-) reviewer for various journals including TNNLS, AIJ, ML
 I serve as a faculty adviser for the Czech *Upsilon Pi Epsilon* (UPE) honor society for talented CS students.
 I coordinate the local chapter activities, report to the US central, secure funding, etc. We won the outstanding UPE chapter [award](http://cs.fel.cvut.cz/en/news/detail/1068).
 
-## Supervising ##
+# Supervising #
 
 I have supervised the following Bachelor's and Master's students:
+
+---
 
 Topics on *Deep Relational Learning*
 
@@ -41,6 +43,8 @@ Topics on *Deep Relational Learning*
 
 Topics on *Predictive Sports Analytics* (my hobby)
 
+---
+
 - Hubáček Ondřej 
     - [thesis](https://dspace.cvut.cz/handle/10467/66861): Exploiting betting market inefficiencies with machine learning. M.Sc. 2017
         - IT SPY 2017 best thesis - 3rd place
@@ -56,10 +60,14 @@ Topics on *Predictive Sports Analytics* (my hobby)
     - _thesis_: Predicting Counter-Strike Game Outcomes with Machine Learning
     
 ---
+
+Others:
    
 - Vavřinec Matěj 
-    - _thesis_: Efficient grounding of hierarchical logic templates
+    - _project_: Efficient grounding of hierarchical logic templates
 - Natalia Bogutskaya
-    - _thesis_: Sentiment Analysis Pipeline for Czech Language
+    - _project_: Sentiment Analysis Pipeline for Czech Language
+    
+---
 
 Additionally, I served as a reviewer (opponent) for more than 20 other theses.

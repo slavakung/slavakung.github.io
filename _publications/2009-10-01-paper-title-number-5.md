@@ -3,7 +3,7 @@ title: "Stacked Structure Learning for Lifted Relational Neural Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
 excerpt: 'A structure learning extension of the LRNN concept - we won the **best paper** of the conference with it.'
-date: 2017-05-17
+date: 2017-06-17
 venue: 'International Conference on Inductive Logic Programming'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-78090-0_10'
 

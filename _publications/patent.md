@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/patent
 excerpt: 'US patent - A constructive procedure for detection of malicious network events from NetFlow traffic.'
 date: 2016-06-11
-venue: 'Czech Technical University press'
+venue: 'US patent office'
 paperurl: 'https://patents.google.com/patent/US9374383B2/en'
 ---
 

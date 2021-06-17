@@ -2,8 +2,8 @@
 title: "Lifted Relational Neural Networks: Efficient Learning of Latent Relational Structures"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper introduces our original concept of Lifted Relational Neural Networks (from 2015)'
-date: 2018-05-17
+excerpt: 'This paper introduces our original concept of Lifted Relational Neural Networks (LRNN, from 2015)'
+date: 2015-05-17
 venue: 'Journal of Artificial Intelligence Research'
 paperurl: 'https://jair.org/index.php/jair/article/view/11203/26415'
 

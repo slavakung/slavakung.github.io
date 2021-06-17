@@ -2,10 +2,10 @@
 title: "Beating the market with a bad predictive model"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-4
-excerpt: 'We demonstrate that it is possible to make consistent profits with a bad predictive model and show how to train it.'
+excerpt: 'I wrote this paper to closely explain our [previous concept](http://ida.felk.cvut.cz/zelezny/pubs/ijf.2019.pdf) of exploiting sports betting market with ML'
 date: 2020-05-17
 venue: 'arxiv preprint (for now)'
-paperurl: 'https://openreview.net/pdf?id=oxnp2q-PGL4'
+paperurl: 'https://arxiv.org/abs/2010.12508'
 ---
 **O Hubacek, G Sir**
 

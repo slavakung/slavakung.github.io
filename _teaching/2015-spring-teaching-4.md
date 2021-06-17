@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-4
 venue: "Czech Technical University + MatFyz @ UK, Computer Science"
-excerpt: "_duration_: 2018-2020
+excerpt: "_duration_: 2017-2020
           <br>
           _role_: organizer
           <br>

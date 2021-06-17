@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-5
 excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.'
 date: 2021-05-11
-venue: 'Czech Technical University press'
+venue: 'Czech Technical University press (theses)'
 paperurl: 'https://gustiks.github.io/files/dissertation.pdf'
 ---
 

@@ -2,7 +2,7 @@
 title: "Lossless compression of structured convolutional models via lifting"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: 'We introduce a *lossless* compression technique to speed up models such as Graph Neural Networks'
+excerpt: 'We introduce a *lossless* compression technique to significantly speed up models such as Graph Neural Networks'
 date: 2021-01-17
 venue: 'International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/pdf?id=oxnp2q-PGL4'

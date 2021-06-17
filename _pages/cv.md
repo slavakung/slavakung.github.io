@@ -14,7 +14,7 @@ You can download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
 
 Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status.
 
-You can also read more about me in an interview for the czech magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and for the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech only).
+You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
 
 
 Highlights
@@ -27,7 +27,7 @@ Highlights
 - MLJ's soccer prediction [challenge](http://cs.fel.cvut.cz/en/news/detail/1302)
     - co-author of the *winning* predictive model
 - [US patent](/publications/patent.md) in network security
-    - my research method was patented by Cisco
+    - my research [method](https://www.hindawi.com/journals/scn/2019/8954914/) was patented by Cisco
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.
     - & Dean's award for excellent thesis

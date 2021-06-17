@@ -41,7 +41,7 @@ Topics on *Deep Relational Learning*
     
 ---
 
-Topics on *Predictive Sports Analytics* (my hobby)
+Topics on *Predictive Sports Analytics*
 
 ---
 

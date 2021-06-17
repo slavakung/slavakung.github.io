@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Apart from the academia, I also have some experience from the IT industry.
 You can download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
 
-Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status. Apart from academia, I also have some experience from the IT industry.
+Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status.
 
 You can also read more about me in an interview for the czech magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and for the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech only).
 

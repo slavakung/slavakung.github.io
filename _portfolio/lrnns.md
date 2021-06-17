@@ -15,8 +15,8 @@ collection: portfolio
 
 A custom framework for deep *relational* learning, written completely from scratch in Java (with a Python frontend)
 \
-see [NeuraLogic](https://github.com/GustikS/NeuraLogic)
+see my [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository
 \
 date: 2015-2020
 \
-role: developer (single)
+role: developer

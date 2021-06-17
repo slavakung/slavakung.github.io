@@ -1,5 +1,5 @@
 ---
-title: "**Deep Learning with Relational Logic Representations**"
+title: "*Deep Learning with Relational Logic Representations*"
 collection: publications
 permalink: /publication/dissertation
 excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.'

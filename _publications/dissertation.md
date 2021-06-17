@@ -20,11 +20,13 @@ As set out, we demonstrate that this paradigm allows for effective end-to-end ne
 
 Additionally, we introduce several enhancements to the framework. Firstly, we present an automated structure learning of the relational rules, composing the lifted models. Secondly, we introduce two principled optimization techniques used to scale up the integrative framework from both the logical and neural learning perspectives. Both the optimization methods are then effective also separately in the respective approaches to learning. Lastly, we demonstrate the framework on selected use cases in different domains.
 
+[full PDF](/files/dissertation.pdf)
+
 cite as:
 ```
 @article{sir2020deep,
           title={Deep Learning with Relational Logic Representations},
-          author={{\v{S}}{\'\i}r, Gustav},
+          author={\v{S}{\'i}r, Gustav},
           journal={Czech Technical University press, Ph.D. thesis.},
           year={2020}
 }

@@ -27,7 +27,7 @@ Topics on *Deep Relational Learning*
 ---
 
 - Svatoš Martin 
-    - _thesis_: Structure learning of neural-symbolic architectures. M.Sc. 2016
+    - [thesis](/files/DP_structureLearningOfNSIArchitectures.pdf): Structure learning of neural-symbolic architectures. M.Sc. 2016
 - Studený Jan 
     - [thesis](https://dspace.cvut.cz/handle/10467/68567): Learning Relevant Reasoning Patterns with Neuro-Logic Programming. B.Sc. 2017
 - Krynský Daniel 

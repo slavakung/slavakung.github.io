@@ -13,9 +13,9 @@ _role_: developer
 collection: portfolio
 ---
 
-A custom framework for deep *relational* learning, written completely from scratch in Java (with a Python frontend in progress).
+[NeuraLogic](https://github.com/GustikS/NeuraLogic) - a custom framework for deep *relational* learning, written completely from scratch in Java (with a Python frontend in progress).
+It allows for combining relational and deep learning through a form of differentiable logic programming. It is an official implementation of the [Lifted Relational Neural Networks](/publication/2009-10-01-paper-title-number-1) concept.
 
-see my [NeuraLogic](https://github.com/GustikS/NeuraLogic) repository
 
-NeuraLogic is a framework for combining relational and deep learning through a form of differentiable logic programming. It is an official implementation of the Lifted Relational Neural Networks concept.
-
+Example relational logic-based template encoding a Graph Neural Network model unfolded over 2 varying molecular samples:
+![Template2Neural Grounding](/images/example_template.png)

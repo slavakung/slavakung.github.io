@@ -26,7 +26,7 @@ I'm a co-supervisor of the following _PhD students_:
 - Matej Uhrín
     - Studying optimal sports betting strategies
 
-<br/>
+
 <br/>
 
 further, I have supervised the following _Bachelor's and Master's students_:

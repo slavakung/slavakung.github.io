@@ -18,7 +18,18 @@ I coordinate the local chapter activities, report to the US central, secure fund
 
 # Supervising #
 
-I have supervised the following Bachelor's and Master's students:
+I'm a co-supervisor of the following _PhD students_:
+
+- Ondřej Hubáček
+    - Developing models for predictive sports analytics
+
+- Matej Uhrín
+    - Studying optimal sports betting strategies
+
+
+<br/>
+
+further, I have supervised the following _Bachelor's and Master's students_:
 
 ---
 
@@ -37,7 +48,7 @@ Topics on *Deep Relational Learning*
 - Krutský Martin 
     - [thesis](https://dspace.cvut.cz/handle/10467/94670): Exploring Symmetries in Deep Learning. B.Sc. 2021
 - Zahradník Lukáš 
-    - _thesis_: Extending Graph Neural Networks with Relational Logic
+    - [thesis](https://dspace.cvut.cz/handle/10467/97065): Extending Graph Neural Networks with Relational Logic. M.Sc. 2021
     
 ---
 

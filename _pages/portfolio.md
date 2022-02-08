@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Featured Projects"
+title: "Selected Projects"
 permalink: /portfolio/
 author_profile: true
 ---

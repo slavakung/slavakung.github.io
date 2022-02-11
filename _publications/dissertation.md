@@ -22,6 +22,7 @@ Additionally, we introduce several enhancements to the framework. Firstly, we pr
 
 [full PDF](/files/dissertation.pdf)
 
+
 cite as:
 ```
 @article{sir2020deep,
@@ -31,3 +32,7 @@ cite as:
           year={2020}
 }
 ```
+
+##### Acknowledgment
+
+I'm deeply grateful to all the people who helped me to successfully complete the PhD period, especially to my supervisor specialist [Ondrej Kuzelka](https://ida.fel.cvut.cz/~kuzelka/) for all his insights, guidance and support throughout the whole journey.

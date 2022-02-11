@@ -33,6 +33,6 @@ cite as:
 }
 ```
 
-##### Acknowledgment
+#### Acknowledgment
 
 I'm deeply grateful to all the people who helped me to successfully complete the PhD period, especially to my supervisor specialist [Ondrej Kuzelka](https://ida.fel.cvut.cz/~kuzelka/) for all his insights, guidance and support throughout the whole journey.

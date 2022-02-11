@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs"
   email            : "souregus@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Gustav-Sourek"
-  uri              : "https://medium.com/@sir.gustav"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  medium           : "https://medium.com/@sir.gustav"
+  medium           : "medium.com/@sir.gustav"
   wikipedia        :
 
 

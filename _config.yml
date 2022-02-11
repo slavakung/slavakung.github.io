@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gustav Šír"
 title_separator          : "-"
 name                     : &name "Gustav Šír"
-description              : &description "personal description"
+description              : &description "Gustav Šír"
 url                      : "https://gustiks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gustiks/gustiks.github.io"
@@ -114,6 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  medium           : "https://medium.com/@sir.gustav"
   wikipedia        :
 
 

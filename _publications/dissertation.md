@@ -22,7 +22,45 @@ Additionally, we introduce several enhancements to the framework. Firstly, we pr
 
 [full PDF](/files/dissertation.pdf)
 
+### Rewies
 
+I gratefully acknowledge the thesis reviewers for their time devoted to my PhD defense:
+
+ - [prof. Hendrik Blockeel](https://scholar.google.com/citations?user=Eq5sUNpp0gwC&hl=en)  (Katholieke Universiteit, Leuven)
+ - [prof. Ashwin Srinivasan](https://scholar.google.com.au/citations?user=zpNTeogAAAAJ&hl=en)   (BITS-Pilani, Goa India )
+ - [Dr. Pasquale Minervini, Ph.D.](https://scholar.google.it/citations?user=9sk6CSgAAAAJ&hl=it)    (University College London)
+ - [Dr. Mathias Niepert, Ph.D.](https://scholar.google.com/citations?user=p5vLzq0AAAAJ&hl=cs)    (NEC Labs Europe)
+
+
+##### Excerpts from the reviews
+
+- _The work of Mr. Šír is of the highest quality: it exceeds the standards typically imposed on PhD dissertations in computer science even at the best universities._
+
+- _...it is internationally recognized as one of the main challenges in the field of artificial intelligence these days. This dissertation
+   contains several highly original contributions that substantially advance the state of
+   the art in this area._
+   
+- _...What I find particularly strong in this thesis is that, contrary to a lot of contemporary
+      work, the main results do not lie in small quantitative improvements [...], but on deep conceptual innovations that lead to a broadly applicable and
+      easy-to-use approach._
+   
+- _The originality, technical depth and technical accuracy of the work are excellent and meet the highest standards of PhD research._
+
+- _...the dissertation has made important and novel contributions to the field of neural-
+   symbolic learning._
+
+- _The thesis is extremely well-written and instructive, and the proposed models and experiments are deeply interesting
+   and inspiring: I am happy to provide a very positive review._
+   
+- _In general, the thesis is excellent and I would rate it as a top thesis in the area of neuro-symbolic learning. I am extremely impressed by both the breadth and depth of the thesis
+   and the level of clarity and detail followed throughout._
+
+
+
+- _Overall, this is an excellent thesis and I am very proud that I was asked to review it._
+
+<br>
+---
 cite as:
 ```
 @article{sir2020deep,
@@ -35,4 +73,4 @@ cite as:
 
 #### Acknowledgment
 
-I'm deeply grateful to all the people who helped me to successfully complete the PhD period, especially to my supervisor specialist [Ondrej Kuzelka](https://ida.fel.cvut.cz/~kuzelka/) for all his insights, guidance and support throughout the whole journey.
+I'm deeply grateful to all the people who helped me to successfully complete the PhD stage, especially to my supervisor specialist [Ondrej Kuzelka](https://ida.fel.cvut.cz/~kuzelka/) for all his insights, guidance and support throughout the whole journey.

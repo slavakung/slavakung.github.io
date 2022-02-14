@@ -22,7 +22,7 @@ Additionally, we introduce several enhancements to the framework. Firstly, we pr
 
 [full PDF](/files/dissertation.pdf)
 
-### Rewies
+### Reviews
 
 I gratefully acknowledge the thesis reviewers for their time devoted to my PhD defense:
 
@@ -59,7 +59,7 @@ I gratefully acknowledge the thesis reviewers for their time devoted to my PhD d
 
 - _Overall, this is an excellent thesis and I am very proud that I was asked to review it._
 
-<br>
+
 ---
 cite as:
 ```
@@ -71,6 +71,6 @@ cite as:
 }
 ```
 
-#### Acknowledgment
+### Acknowledgment
 
 I'm deeply grateful to all the people who helped me to successfully complete the PhD stage, especially to my supervisor specialist [Ondrej Kuzelka](https://ida.fel.cvut.cz/~kuzelka/) for all his insights, guidance and support throughout the whole journey.

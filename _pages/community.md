@@ -9,7 +9,7 @@ author_profile: true
 
 ## Reviewing ##
 
-I have served as a (sub-) reviewer for various journals including TNNLS, AIJ, MLJ, CI, and conferences including IJCAI, ILP, and others.
+I have served as a reviewer for various journals including TNNLS, AIJ, MLJ, CI, and conferences including IJCAI, ILP, and others.
 
 ## Advising ##
 

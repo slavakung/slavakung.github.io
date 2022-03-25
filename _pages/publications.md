@@ -16,3 +16,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+---
+
+Please note that my Bachelor name, appearing on most of the papers, was Šourek (I accepted my wife's name recently).

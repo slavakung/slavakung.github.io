@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: 'I wrote this paper to closely explain our [previous concept](http://ida.felk.cvut.cz/zelezny/pubs/ijf.2019.pdf) of exploiting sports betting market with ML'
 date: 2020-05-17
-venue: 'arxiv preprint (for now)'
-paperurl: 'https://arxiv.org/abs/2010.12508'
+venue: 'International Journal of Forecasting'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0169207022000292'
 ---
 **O Hubacek, G Sir**
 

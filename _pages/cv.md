@@ -32,7 +32,7 @@ Highlights
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.
     - & Dean's award for excellent thesis 
-AIJ 
+
 <!--- 
 <object data="{{https://gustiks.github.io}}{{https://gustiks.github.io}}/files/gustav_sir_CV.pdf" width="1000" height="1000" type="application/pdf"></object> 
 -->

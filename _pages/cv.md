@@ -19,7 +19,8 @@ You can also read more about me in an interview for magazine [Dotyk](https://www
 
 Highlights
 ---
-
+- [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
+    - Granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
 - [Best paper](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ILP 2017
     - International Conference on Inductive Logic Programming (Relational ML)
 - UPE Executive Council [Award](http://cs.fel.cvut.cz/en/page/upe-2016-scholarship-award)
@@ -30,8 +31,8 @@ Highlights
     - my research [method](https://www.hindawi.com/journals/scn/2019/8954914/) was patented by Cisco
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.
-    - & Dean's award for excellent thesis
-
+    - & Dean's award for excellent thesis 
+AIJ 
 <!--- 
 <object data="{{https://gustiks.github.io}}{{https://gustiks.github.io}}/files/gustav_sir_CV.pdf" width="1000" height="1000" type="application/pdf"></object> 
 -->

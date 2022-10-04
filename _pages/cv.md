@@ -21,6 +21,8 @@ Highlights
 ---
 - [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
     - Granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
+- [Distinguished PC member](https://ijcai-22.org/distinguished-pc-members/) at IJCAI 2022
+  - recognized within the top 3% of reviewers
 - [Best paper](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ILP 2017
     - International Conference on Inductive Logic Programming (Relational ML)
 - UPE Executive Council [Award](http://cs.fel.cvut.cz/en/page/upe-2016-scholarship-award)

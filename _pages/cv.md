@@ -14,9 +14,6 @@ You can download my full CV as a [PDF file](/files/gustav_sir_CV.pdf).
 
 Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for an up-to-date status.
 
-You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
-
-
 Highlights
 ---
 - [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
@@ -34,6 +31,14 @@ Highlights
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.
     - & Dean's award for excellent thesis 
+
+You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
+
+### Invited talks:
+- University of Cambridge
+  - in AI research group seminar series in the Department of Computer Science
+- Virginia Tech
+  - in a joint Data Science course with Morgan State and Hampden-Sydney
 
 <!--- 
 <object data="{{https://gustiks.github.io}}{{https://gustiks.github.io}}/files/gustav_sir_CV.pdf" width="1000" height="1000" type="application/pdf"></object> 

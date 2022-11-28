@@ -17,7 +17,7 @@ Please see my [linked-in profile](https://www.linkedin.com/in/gustav-sir/) for a
 Highlights
 ---
 - [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
-    - Granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
+    - granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
 - [Distinguished PC member](https://ijcai-22.org/distinguished-pc-members/) at IJCAI 2022
   - recognized within the top 3% of reviewers
 - [Best paper](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ILP 2017
@@ -31,6 +31,8 @@ Highlights
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.
     - & Dean's award for excellent thesis 
+- Top department stats at ResearchGate :-D
+  - from our CS department, my papers have been the [most read](https://www.researchgate.net/profile/Gustav-Sir/achievement/620a2ba063725805387f7b91) for over 2 years
 
 You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
 

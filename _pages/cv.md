@@ -18,6 +18,7 @@ Highlights
 ---
 - [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
     - granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
+    - selected for [a book](https://www.iospress.com/catalog/books/deep-learning-with-relational-logic-representations) publication in frontiers in AI
 - [Distinguished PC member](https://ijcai-22.org/distinguished-pc-members/) at IJCAI 2022
   - recognized within the top 3% of reviewers
 - [Best paper](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ILP 2017
@@ -26,7 +27,7 @@ Highlights
     - International Honor Society for the Computing and Information Disciplines endorsed by ACM & IEEE
 - MLJ's soccer prediction [challenge](http://cs.fel.cvut.cz/en/news/detail/1302)
     - co-author of the *winning* predictive model
-- [US patent](/publications/patent.md) in network security
+- [US patent](/publication/patent.md) in network security
     - my research [method](https://www.hindawi.com/journals/scn/2019/8954914/) was patented by Cisco
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.

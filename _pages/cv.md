@@ -27,7 +27,7 @@ Highlights
     - International Honor Society for the Computing and Information Disciplines endorsed by ACM & IEEE
 - MLJ's soccer prediction [challenge](http://cs.fel.cvut.cz/en/news/detail/1302)
     - co-author of the *winning* predictive model
-- [US patent](/publication/patent.md) in network security
+- [US patent](/publication/patent) in network security
     - my research [method](https://www.hindawi.com/journals/scn/2019/8954914/) was patented by Cisco
 - Graduation with honors
     - *summa cum laude* both B.Sc. & M.Sc.

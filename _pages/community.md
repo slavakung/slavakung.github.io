@@ -9,7 +9,7 @@ author_profile: true
 
 ## Reviewing ##
 
-I have served as a reviewer for various journals including MLJ (editorial board member), TNNLS, AIJ, AIC, CI, and conferences including IJCAI (PC member), ILP, and others.
+I have served as a reviewer for various journals including MLJ (EB member), NSAI (EB member), TNNLS, AIJ, AIC, CI, and conferences including IJCAI (PC member), ILP, and others.
 
 ## Advising ##
 

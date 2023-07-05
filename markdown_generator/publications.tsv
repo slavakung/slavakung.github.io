@@ -1,4 +1,32 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+Item type	Authors	Title	Journal	Publication year	Volume	Issue	Pages	Institution	Publisher	Proceedings title	Date published
+Journal Article	Daneshmand A,Facchinei F,Kungurtsev V,Scutari G	Hybrid random/deterministic parallel algorithms for convex and nonconvex big data optimization	IEEE Transactions on Signal Processing	2015	63	15	3914-3929		IEEE		2015
+Journal Article	Daneshmand A,Scutari G,Kungurtsev V	Second-order guarantees of distributed gradient algorithms	SIAM Journal on Optimization	2020	30	4	3029-3068		SIAM		2020
+Conference Paper	Vahidian S,Morafah M,Wang W,Kungurtsev V,Chen C,Shah M,Lin B	Efficient distribution similarity identification in clustered federated learning via principal angles between client data subspaces		2023	37		10043-10052			Proceedings of the AAAI Conference on Artificial Intelligence	2023
+Journal Article	Bergou EH,Diouane Y,Kungurtsev V	Convergence and complexity analysis of a Levenberg--Marquardt algorithm for inverse problems	Journal of Optimization Theory and Applications	2020	185		927-944		Springer		2020
+Journal Article	Gill PE,Kungurtsev V,Robinson DP	A stabilized SQP method: global convergence	IMA Journal of Numerical Analysis	2017	37	1	407-443		OUP		2017
+Journal Article	Cannelli L,Facchinei F,Kungurtsev V,Scutari G	Asynchronous parallel algorithms for nonconvex optimization	Mathematical Programming	2020	184		121-154		Springer		2020
+Journal Article	Cannelli L,Facchinei F,Scutari G,Kungurtsev V	Asynchronous optimization over graphs: Linear convergence under error bound conditions	IEEE Transactions on Automatic Control	2020	66	10	4604-4619		IEEE		2020
+Journal Article	Gill PE,Kungurtsev V,Robinson DP	A stabilized SQP method: superlinear convergence	Mathematical Programming	2017	163	1-2	369-410		Springer		2017
+Journal Article	Shevchenko A,Kungurtsev V,Mondelli M	Mean-field analysis of piecewise linear solutions for wide ReLU networks	The Journal of Machine Learning Research	2022	23	1	5660-5714		JMLRORG		2022
+Journal Article	Kungurtsev V,Jaschke J	A predictor-corrector path-following algorithm for dual-degenerate parametric optimization problems	SIAM Journal on Optimization	2017	27	1	538-564		SIAM		2017
+Journal Article	Intallura P,Korpas G,Chakraborty S,Kungurtsev V,Marecek J	A Survey of Quantum Alternatives to Randomized Algorithms: Monte Carlo Integration and Beyond	arXiv preprint arXiv:2303. 04945	2023							2023
+Journal Article	Gill PE,Kungurtsev V,Robinson DP	A shifted primal-dual penalty-barrier method for nonlinear optimization	SIAM Journal on Optimization	2020	30	2	1067-1093		SIAM		2020
+Journal Article	Kungurtsev V,Diehl M	Sequential quadratic programming methods for parametric nonlinear optimization	Computational Optimization and Applications	2014	59		475-509		Springer		2014
+Journal Article	Bergou EH,Diouane Y,Kunc V,Kungurtsev V,Royer CW	A subsampling line-search method with second-order results	INFORMS Journal on Optimization	2022	4	4	403-425		INFORMS		2022
+Journal Article	Facchinei F,Kungurtsev V,Lampariello L,Scutari G	Ghost penalties in nonconvex constrained optimization: Diminishing stepsizes and iteration complexity	Mathematics of Operations Research	2021	46	2	595-627		INFORMS		2021
+Journal Article	Attouch H,Fadili J,Kungurtsev V	ON THE EFFECT OF PERTURBATIONS IN FIRST-ORDER OPTIMIZATION METHODS WITH INERTIA AND HESSIAN DRIVEN DAMPING	Evolution Equations & Control Theory	2023	12	1					2023
+Conference Paper	Nadiradze G,Markov I,Chatterjee B,Kungurtsev V,Alistarh D	Elastic consistency: A practical consistency model for distributed stochastic gradient descent		2021	35		9037-9045			Proceedings of the AAAI Conference on Artificial Intelligence	2021
+Journal Article	Kungurtsev V,Korpas G,Marecek J,Zhu EY	Iteration complexity of variational quantum algorithms	arXiv preprint arXiv:2209. 10615	2022							2022
+Journal Article	Suwartadi E,Kungurtsev V,Jäschke J	Sensitivity-based economic NMPC with a path-following approach	Processes	2017	5	1	8		MDPI		2017
+Journal Article	Kungurtsev V,Morafah M,Javidi T,Scutari G	Decentralized asynchronous non-convex stochastic optimization on directed graphs	IEEE Transactions on Control of Network Systems	2023					IEEE		2023
+Journal Article	Kungurtsev V,Rinaldi F	A zeroth order method for stochastic weakly convex optimization	Computational Optimization and Applications	2021	80	3	731-753		Springer		2021
+Journal Article	Zanon M,Kungurtsev V,Gros S	Reinforcement learning based on real-time iteration NMPC	IFAC-PapersOnLine	2020	53	2	5213-5218		Elsevier		2020
+Conference Paper	Facchinei F,Kungurtsev V,Lampariello L,Scutari G	Iteration complexity of a fixed-stepsize SQP method for nonconvex optimization with convex constraints		2021			109-120	Springer		Numerical Analysis and Optimization: NAO-V, Muscat, Oman, January 2020 V	2021
+Book	Kungurtsev V	Second-derivative sequential quadratic programming methods for nonlinear optimization		2013					University of California, San Diego		2013
+Journal Article	Difonzo FV,Kungurtsev V,Marecek J	Stochastic Langevin Differential Inclusions with Applications to Machine Learning	arXiv preprint arXiv:2206. 11533	2022							2022
+Conference Paper	Kungurtsev V,Marecek J	A two-step pre-processing for semidefinite programming		2020			384-389	IEEE		2020 59th IEEE Conference on Decision and Control (CDC)	2020
+Conference Paper	Kuzelka O,Kungurtsev V,Wang Y	Lifted weight learning of markov logic networks (revisited one more time)		2020			269-280	PMLR		International Conference on Probabilistic Graphical Models	2020
+Journal Article	Bergou EH,Diouane Y,Kungurtsev V,Royer CW	A Stochastic Levenberg--Marquardt Method Using Random Models with Complexity Results	SIAM/ASA Journal on Uncertainty Quantification	2022	10	1	507-536		SIAM		2022
+Conference Paper	Kuzelka O,Kungurtsev V	Lifted weight learning of markov logic networks revisited		2019			1753-1761	PMLR		The 22nd International Conference on Artificial Intelligence and Statistics	2019
+Journal Article	Kungurtsev V,Marecek J,Ghosh R,Shorten R	On the ergodic control of ensembles in the presence of non-linear filters	Automatica	2023	152		110946		Elsevier		2023
+Journal Article	Kungurtsev V,Cobb A,Javidi T,Jalaian B	Decentralized bayesian learning with metropolis-adjusted hamiltonian monte carlo	Machine Learning	2023			1-29		Springer		2023

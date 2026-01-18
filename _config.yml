@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gustav Šír"
+title                    : "Vyacheslav Kungurtsev"
 title_separator          : "-"
-name                     : &name "Gustav Šír"
-description              : &description "Gustav Šír"
-url                      : "https://gustiks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vyacheslav Kungurtsev"
+description              : &description "Vyacheslav Kungurtsev"
+url                      : "https://slavakung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gustiks/gustiks.github.io"
+repository               : "gustiks/slavakung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gustav Šír"
+  name             : "Vyacheslav Kungurtsev"
   avatar           : "profile.jpg"
-  bio              : "I'm a researcher working on ML and AI @ CS Dept. @ FEE @ Czech Technical University in Prague. I have also some industry experience, including Google and IBM Research."
+  bio              : "I'm an Applied Mathematician with expertise in Optimization, Process Control Engineering, Distributed decentralized and high performance computing, ML and AI . Currently based in Prague. "
   location         : "Prague, CZ"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.cz/citations?user=ovfDEVwAAAAJ&hl=cs"
-  email            : "souregus@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Gustav-Sourek"
+  googlescholar    : "https://scholar.google.com/citations?user=UoUutkAAAAAJ&hl=en"
+  email            : "kunguvya@fel.cvut.cz"
+  researchgate     : "https://www.researchgate.net/profile/Vyacheslav-Kungurtsev"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GustikS"
+  github           : "slavakung"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "gustav-sir"
-  orcid            : "https://orcid.org/0000-0001-6964-4232"
+  linkedin         : "vyacheslav-kungurtsev-3694962a"
+  orcid            : "https://orcid.org/0000-0003-2229-8824"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GustavSheer"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  medium           : "medium.com/@sir.gustav"
+  medium           : 
   wikipedia        :
 
 

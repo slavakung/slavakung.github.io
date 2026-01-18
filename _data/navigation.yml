@@ -13,7 +13,7 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "For Companies"
+  - title: "Industrial"
     url: /for-companies/
 
   - title: "For Students"
@@ -22,5 +22,5 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "About Me"
+  - title: "About and CV"
     url: /about/

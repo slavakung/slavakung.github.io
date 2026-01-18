@@ -1,25 +1,26 @@
 # main links links
 main:
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/
+  - title: "Software"
+    url: /software/
 
-  - title: "Projects"
-    url: /portfolio/
+  - title: "For Companies"
+    url: /for-companies/
 
-  - title: "Community"
-    url: /community/
+  - title: "For Students"
+    url: /for-students/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Blog"
+    url: /blog/
 
-  - title: "Blog Posts"
-    url: "https://medium.com/@sir.gustav"
-    
-  - title: "CV"
-    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "About Me"
+    url: /about/

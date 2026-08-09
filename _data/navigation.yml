@@ -1,26 +1,13 @@
-# main links links
-main:
 main:
   - title: "Home"
     url: /
-
-  - title: "Research"
-    url: /research/
-
+  - title: "OORDSU"
+    url: /oordsu/
   - title: "Publications"
     url: /publications/
-
   - title: "Software"
     url: /software/
-
-  - title: "Industrial"
-    url: /for-companies/
-
-  - title: "For Students"
-    url: /for-students/
-
+  - title: "Market Activity"
+    url: /market-activity/
   - title: "Blog"
     url: /blog/
-
-  - title: "About and CV"
-    url: /about/

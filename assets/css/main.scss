@@ -39,3 +39,26 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* 2026 site refresh */
+:root { --accent: #1769aa; --ink: #17233a; --soft: #f4f7fa; }
+.page__content { font-size: 1.02em; line-height: 1.7; }
+.page__content h1, .page__content h2, .page__content h3 { color: var(--ink); letter-spacing: -0.015em; }
+.page__content h2 { margin-top: 2.2em; border-bottom: 1px solid #e7ebef; padding-bottom: .35em; }
+.eyebrow { color: var(--accent); font-weight: 800; letter-spacing: .13em; font-size: .78em; margin-bottom: .3em; }
+.research-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; margin: 1.3rem 0 2rem; }
+.research-card { padding: 1.15rem 1.25rem; border: 1px solid #e2e7ec; border-radius: 10px; background: var(--soft); }
+.research-card h3 { margin-top: 0; margin-bottom: .35rem; }
+.research-card p { margin: 0; }
+.oordsu-figure { width: 100%; border-radius: 12px; box-shadow: 0 8px 30px rgba(20,35,55,.14); margin: 1rem 0 2rem; }
+.author__avatar img { border-radius: 8px; max-width: 180px; }
+.masthead { border-bottom: 1px solid #e7ebef; }
+.greedy-nav a { font-weight: 650; }
+@media (max-width: 700px) { .research-grid { grid-template-columns: 1fr; } }
+
+
+/* Publication metrics */
+.metric-strip { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:0.75rem; margin:1.25rem 0 0.4rem; }
+.metric-strip > div { border:1px solid rgba(0,0,0,.12); border-radius:8px; padding:.8rem 1rem; }
+.metric-strip strong { display:block; font-size:1.55rem; line-height:1.1; }
+.metric-strip span { display:block; margin-top:.2rem; font-size:.82rem; opacity:.72; }
+@media (max-width:600px){ .metric-strip { grid-template-columns:1fr; } }

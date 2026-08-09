@@ -13,7 +13,7 @@ name                     : &name "Vyacheslav Kungurtsev"
 description              : &description "Vyacheslav Kungurtsev"
 url                      : "https://slavakung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gustiks/slavakung.github.io"
+repository               : "slavakung/slavakung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Vyacheslav Kungurtsev"
-  avatar           : "profile.jpg"
+  avatar           : "profile-2026.jpg"
   bio              : "I'm an Applied Mathematician with expertise in Optimization, Process Control Engineering, Distributed decentralized and high performance computing, ML and AI . Currently based in Prague. "
-  location         : "Prague, CZ"
+  location         : "Oak Ridge / Knoxville, TN"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UoUutkAAAAAJ&hl=en"
-  email            : "kunguvya@fel.cvut.cz"
+  email            : "slava@alumni.duke.edu"
   researchgate     : "https://www.researchgate.net/profile/Vyacheslav-Kungurtsev"
   uri              :
   bitbucket        :

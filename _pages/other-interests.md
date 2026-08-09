@@ -8,7 +8,7 @@ author_profile: true
 
 - **USA Powerlifting Federation — Junior (20–23) Gold, 2009**
 - **PADI Advanced Open Water Diver** — certified
-- **Technical mountaineering** — summit of **Vallunaraju, Peru**, 5,686 m / 18,655 ft, Cordillera Blanca
+- **Technical mountaineering** — summit of **Vallunaraju, Peru**, 5,686 m / 18,655 ft, Cordillera Blanca (2007)
 
 ## Music
 

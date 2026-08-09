@@ -18,20 +18,20 @@ I perform and compose across rap, rock, metal, and acoustic styles, both solo an
 
 Rap performances, covers, and freestyle material recorded in Prague under **Big Sage**.
 
-- [Big Sage — YouTube: cover of NF, *How Could You Leave Us* →](https://www.youtube.com/watch?v=6-5o1jpHDx8)
+- [Big Sage — YouTube* →](https://www.youtube.com/@bigsage6102/videos)
 
-### Depraved Prophets
+### Depraved Prophets (2019-2022)
 
-Hip-hop/rap project with releases including *Struggle*, *Tough Guy*, *Dirty Hipster*, *Determine the Relationship*, *Wanna Be a Rapper*, *Doggie in Heaven*, and *Crazy*.
+Hip Hop Fusion (Rock, Folk, Funk, etc.) project with releases including *Struggle*, *Tough Guy*, *Dirty Hipster*, *Determine the Relationship*, *Wanna Be a Rapper*, *Doggie in Heaven*, and *Crazy*.
 
 - [Spotify →](https://open.spotify.com/artist/6zp7C5rN3ootsEpc2zZKzZ)
 - [Apple Music →](https://music.apple.com/us/album/crazy-single/1500808055)
 - [YouTube — *Crazy* →](https://www.youtube.com/watch?v=eTmvnTR9Ss0)
 - [YouTube — *Struggle* →](https://www.youtube.com/watch?v=dE9E9Mxn4og)
 
-### Distorted Personalities
+### Distorted Personalities (2014-2018)
 
-Prague-based rock/rap project. The 2017 album *Dark Possibilities* contains ten tracks spanning rock and rap influences.
+Prague-based rock-rap project. The 2017 album *Dark Possibilities* contains ten tracks spanning rock and rap influences.
 
 - [YouTube channel →](https://www.youtube.com/channel/UCjZi1XDyko7srWCb9m_9mVA)
 - [Apple Music — *Dark Possibilities* →](https://music.apple.com/gb/album/dark-possibilities/1294496015)

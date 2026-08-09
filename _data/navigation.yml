@@ -11,3 +11,5 @@ main:
     url: /market-activity/
   - title: "Blog"
     url: /blog/
+  - title: "Other Interests"
+    url: /other-interests/

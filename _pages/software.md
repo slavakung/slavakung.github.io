@@ -26,7 +26,6 @@ Current capabilities include CSR/CSC/COO/dense matrix representations, structure
 
 [Repository →](https://github.com/slavakung/FortranMultiParallelIterativeLA)
 
-
 ## Collaborator and student software
 
 **FlexCFD.** A C++23 library, developed with Anshu Kumar, for modular solution of computational-fluid-dynamics PDEs using multiple numerical methods. [Repository →](https://github.com/Anshu8879065/FlexCFD)

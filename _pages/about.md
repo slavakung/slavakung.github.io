@@ -1,20 +1,42 @@
 ---
 permalink: /
-title: "About me"
-excerpt: ""
+title: "Vyacheslav Kungurtsev"
+excerpt: "Optimization, control, scientific AI, and computation from HPC to embedded autonomy."
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I'm a researcher (assistant professor) in the [Intelligent Data Analysis](http://ida.fel.cvut.cz) lab at the [Department of Computer Science](http://cs.fel.cvut.cz/) of the [Faculty of Electrical Engineering](https://www.fel.cvut.cz/en) at [Czech Technical University](https://www.cvut.cz/en) in Prague, Czech Republic.
+<p class="eyebrow">APPLIED MATHEMATICS · SCIENTIFIC AI · CONTROL</p>
+# From large-scale computation to real-time decisions under uncertainty.
 
-I'm interested in Artificial Intelligence research, with a particular focus on (deep) *relational* machine learning - i.e. learning from data with complex dependencies and structures such as (knowledge) graphs and databases. To approach this problem, I like to combine formal representations from relational logic with ideas from deep learning. You can find all the details in my [**dissertation thesis**](/publication/dissertation). I have also created a corresponding learning framework called [Lifted Relational Neural Networks](/portfolio/lrnns).
-Additionally, I'm also interested in predictive sports analytics.
+I develop mathematical and computational methods for optimization, machine learning, and control, with an emphasis on algorithms that respect the hardware and scientific systems on which they ultimately run.
 
-I received my B.Sc. in *Intelligent Systems*, M.Sc. in *Artificial Intelligence*, and Ph.D. in *Artificial Intelligence & BioCybernetics* from Czech Technical University. I've been also serving as a tutor in several [courses](teaching.md). I also serve as a faculty adviser of the local [Upsilon Pi Epsilon](http://upe.cvut.cz/) honor society for talented computer science students.
+[OORDSU research program](/oordsu/){: .btn .btn--primary } [Recent publications](/publications/){: .btn } [Software](/software/){: .btn }
 
-During the studies, I've also gained some international experience from [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore, [National Taiwanese University of Science and Technology](https://www.ntust.edu.tw/?Lang=en) in Taipei, and [University of York](https://www.york.ac.uk/). I also got my hands dirty with some work at companies such as Citibank or IBM, as well as some research projects at [IBM Research](https://www.research.ibm.com/labs/haifa/) in Haifa and [Google](https://research.google/locations/zurich/) in Zurich.
+## Current positions
 
-I'm profoundly interested in the [impacts of AI](https://medium.com/@sir.gustav/five-human-dangers-of-artificial-intelligence-ccf2ae4b92c7) on humanity. I support local Unicef and People-in-Need  branches. I spend most of my spare time with my wife and kids, but I also love traveling, diving and paragliding.
+**Research Scientist, Oak Ridge National Laboratory (ORNL)** — Mathematics in Computation, beginning August 2026. My work centers on mathematical optimization, scientific AI, uncertainty-aware sequential decision making, and high-performance computing.
+
+**Tenured Researcher, Czech Technical University in Prague (CTU)** — continuing as a secondary academic affiliation after a research career at CTU spanning postdoctoral, researcher, and tenured-researcher roles.
+
+I received a **Ph.D. in Mathematics (Computational Science)** from the University of California, San Diego in 2013 and a **B.S. in Mathematics, with an Economics minor**, from Duke University in 2007.
+
+## Research
+
+My work sits at the intersection of **mathematical programming and numerical optimization**, **process and autonomous-systems control**, **machine learning / AI**, and **parallel, distributed, and high-performance computing**. A recurring theme is connecting rigorous algorithms with computational and deployment realities: stochasticity, limited information, heterogeneous hardware, real-time constraints, and scientific structure.
+
+<div class="research-grid">
+<div class="research-card"><h3>Optimization</h3><p>Nonlinear, stochastic, constrained, Riemannian, derivative-free, bilevel/multilevel, and semidefinite optimization.</p></div>
+<div class="research-card"><h3>Control & autonomy</h3><p>Model predictive control, real-time iteration, stochastic control, mission-aligned autonomy, and sequential decisions under uncertainty.</p></div>
+<div class="research-card"><h3>Scientific AI</h3><p>Physics- and structure-informed learning, inverse problems, dataset distillation, federated learning, and AI for scientific systems.</p></div>
+<div class="research-card"><h3>Computing</h3><p>Algorithms spanning exascale/HPC, asynchronous and decentralized systems, and online embedded deployment.</p></div>
+</div>
+
+## Selected recent directions
+
+- **Offline-HPC → online-embedded decision making:** OORDSU connects expensive offline modeling, policy construction, and data generation to adaptive real-time control.
+- **Optimization for emerging computation:** variational quantum algorithms, hardware-aware optimization, and scalable parallel/distributed methods.
+- **Learning and control with structure:** integrating domain models, geometry, uncertainty, and data rather than treating scientific systems as generic black boxes.
+
+## Links
+
+[Google Scholar](https://scholar.google.com/citations?user=UoUutkAAAAAJ&hl=en) · [GitHub](https://github.com/slavakung) · [ORCID](https://orcid.org/0000-0003-2229-8824) · [LinkedIn](https://www.linkedin.com/in/vyacheslav-kungurtsev-3694962a/) · [CV (March 2026)](/files/Vyacheslav_Kungurtsev_CV_March_2026.pdf)

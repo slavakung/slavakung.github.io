@@ -5,5 +5,4 @@ layout: posts
 author_profile: true
 ---
 
-Content here.
-
+Longer-form notes on the philosophy of science and mathematics, innovation, AI, optimization, and announcements accompanying major research or software results.

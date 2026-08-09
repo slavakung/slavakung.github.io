@@ -26,16 +26,6 @@ Current capabilities include CSR/CSC/COO/dense matrix representations, structure
 
 [Repository →](https://github.com/slavakung/FortranMultiParallelIterativeLA)
 
-## Other public repositories
-
-### CasADi
-I contributed a nonlinear optimization solver in C++ to **CasADi** early in my career. [Repository →](https://github.com/slavakung/casadi)
-
-### Shared-memory asynchronous SGLD
-An extension of a shared-memory asynchronous SGD implementation to employ **Langevin dynamics for sampling**. [Repository →](https://github.com/slavakung/shared-memory-async-SGLD)
-
-### d41 / CoDiet
-A fork associated with the CoDiet D4.1 deliverable. [Repository →](https://github.com/slavakung/d41)
 
 ## Collaborator and student software
 
